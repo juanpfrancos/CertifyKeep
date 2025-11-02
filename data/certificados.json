@@ -1,0 +1,308 @@
+[
+  {
+    "titulo": "Análisis de datos Nivel Básico",
+    "categoria": "IU Training",
+    "institucion": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+    "fecha": "2025-08-01",
+    "horas": "159",
+    "url": "public/certificados/Diplomados/Análisis de datos - TalentoTech.pdf",
+    "imagen": "public/thumbnails/Diplomados/Análisis de datos - TalentoTech.jpg"
+  },
+  {
+    "titulo": "Diplomado en Docencia Universitaria",
+    "categoria": "Diplomados",
+    "institucion": "No especificada",
+    "fecha": "2018-11-10",
+    "horas": null,
+    "url": "public/certificados/Diplomados/Docencia Universitaria - JUAN PABLO FRANCO SANCHEZ.pdf",
+    "imagen": "public/thumbnails/Diplomados/Docencia Universitaria - JUAN PABLO FRANCO SANCHEZ.jpg"
+  },
+  {
+    "titulo": "MARKETING DIGITAL",
+    "categoria": "Comfamiliar",
+    "institucion": "Comfamiliar",
+    "fecha": "2023-07-27",
+    "horas": null,
+    "url": "public/certificados/Diplomados/Marketing Digital Comfamiliar.pdf",
+    "imagen": "public/thumbnails/Diplomados/Marketing Digital Comfamiliar.jpg"
+  },
+  {
+    "titulo": "Automatiza las tareas de ciberseguridad con Python",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2024-12-26",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera 0LO1A0ZNE65R.pdf",
+    "imagen": "public/thumbnails/Google/Coursera 0LO1A0ZNE65R.jpg"
+  },
+  {
+    "titulo": "Fundamentos de la ciberseguridad",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2024-08-06",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera 7E9Q1I5ZF6RN.pdf",
+    "imagen": "public/thumbnails/Google/Coursera 7E9Q1I5ZF6RN.jpg"
+  },
+  {
+    "titulo": "Conexión y protección: Redes y seguridad de redes",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2024-12-17",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera CPONVEE8QGL2.pdf",
+    "imagen": "public/thumbnails/Google/Coursera CPONVEE8QGL2.jpg"
+  },
+  {
+    "titulo": "Activos, amenazas y vulnerabilidades",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2024-12-19",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera D6LUOQ3DUTEF.pdf",
+    "imagen": "public/thumbnails/Google/Coursera D6LUOQ3DUTEF.jpg"
+  },
+  {
+    "titulo": "Ponlo en práctica: Prepárate para los trabajos en ciberseguridad",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2025-01-11",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera F1Z4GM7LC4B1.pdf",
+    "imagen": "public/thumbnails/Google/Coursera F1Z4GM7LC4B1.jpg"
+  },
+  {
+    "titulo": "Technical Support Fundamentals",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2020-10-07",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera FAVHTEV832A2.pdf",
+    "imagen": "public/thumbnails/Google/Coursera FAVHTEV832A2.jpg"
+  },
+  {
+    "titulo": "Ciberseguridad de Google",
+    "categoria": "Google",
+    "institucion": "Google",
+    "fecha": "2025-01-11",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera GJTXDZS10694.pdf",
+    "imagen": "public/thumbnails/Google/Coursera GJTXDZS10694.jpg"
+  },
+  {
+    "titulo": "Haz sonar la alarma: Detección y respuesta",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2025-01-11",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera HF9WHRFPIVES.pdf",
+    "imagen": "public/thumbnails/Google/Coursera HF9WHRFPIVES.jpg"
+  },
+  {
+    "titulo": "Ve a lo seguro: Gestiona los riesgos de seguridad",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2024-12-13",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera TNU75NQGHD0C.pdf",
+    "imagen": "public/thumbnails/Google/Coursera TNU75NQGHD0C.jpg"
+  },
+  {
+    "titulo": "Herramientas del oficio: Linux y SQL",
+    "categoria": "Coursera",
+    "institucion": "Google",
+    "fecha": "2024-12-25",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera Z8C6JNURI435.pdf",
+    "imagen": "public/thumbnails/Google/Coursera Z8C6JNURI435.jpg"
+  },
+  {
+    "titulo": "Google AI Essentials",
+    "categoria": "Google",
+    "institucion": "Coursera",
+    "fecha": "2025-04-03",
+    "horas": null,
+    "url": "public/certificados/Google/Coursera ZMUU0R96KZ6R.pdf",
+    "imagen": "public/thumbnails/Google/Coursera ZMUU0R96KZ6R.jpg"
+  },
+  {
+    "titulo": "Learning React.js",
+    "categoria": "LinkedIn Learning",
+    "institucion": "LinkedIn Learning",
+    "fecha": "2020-06-25",
+    "horas": "1",
+    "url": "public/certificados/LinkedIn Learning/Learning React Js.pdf",
+    "imagen": "public/thumbnails/LinkedIn Learning/Learning React Js.jpg"
+  },
+  {
+    "titulo": "React: Building Progressive Web Apps (PWAs)",
+    "categoria": "LinkedIn Learning",
+    "institucion": "LinkedIn Learning",
+    "fecha": "2020-07-31",
+    "horas": "0.83",
+    "url": "public/certificados/LinkedIn Learning/PWA React.pdf",
+    "imagen": "public/thumbnails/LinkedIn Learning/PWA React.jpg"
+  },
+  {
+    "titulo": "Django Web Framework",
+    "categoria": "Coursera",
+    "institucion": "Meta",
+    "fecha": "2023-12-19",
+    "horas": null,
+    "url": "public/certificados/Meta/Coursera 48EDP3JY846E.pdf",
+    "imagen": "public/thumbnails/Meta/Coursera 48EDP3JY846E.jpg"
+  },
+  {
+    "titulo": "Python Data Structures",
+    "categoria": "Coursera",
+    "institucion": "University of Michigan",
+    "fecha": "2020-10-16",
+    "horas": null,
+    "url": "public/certificados/Michigan/Coursera 3W4XC9F3P777.pdf",
+    "imagen": "public/thumbnails/Michigan/Coursera 3W4XC9F3P777.jpg"
+  },
+  {
+    "titulo": "Programming for Everybody (Getting Started with Python)",
+    "categoria": "Coursera",
+    "institucion": "University of Michigan",
+    "fecha": "2020-10-07",
+    "horas": null,
+    "url": "public/certificados/Michigan/Coursera VZGDENGSW6B6.pdf",
+    "imagen": "public/thumbnails/Michigan/Coursera VZGDENGSW6B6.jpg"
+  },
+  {
+    "titulo": "DP-900: Microsoft Azure Data Fundamentals",
+    "categoria": "Microsoft",
+    "institucion": "Microsoft",
+    "fecha": "2023-10-01",
+    "horas": "16",
+    "url": "public/certificados/Microsoft/DP 900.pdf",
+    "imagen": "public/thumbnails/Microsoft/DP 900.jpg"
+  },
+  {
+    "titulo": "Yo Puedo Programar",
+    "categoria": "Microsoft",
+    "institucion": "Microsoft",
+    "fecha": "2023-10-01",
+    "horas": "40",
+    "url": "public/certificados/Microsoft/YoPuedoProgramar - Microsoft.pdf",
+    "imagen": "public/thumbnails/Microsoft/YoPuedoProgramar - Microsoft.jpg"
+  },
+  {
+    "titulo": "Certificado Introducción al Desarrollo Web - Segunda Parte",
+    "categoria": "Otros",
+    "institucion": "Otros",
+    "fecha": "2018-06-01",
+    "horas": null,
+    "url": "public/certificados/Otros/Certificado Introducción al Desarrollo Web - Segunda Parte.pdf",
+    "imagen": "public/thumbnails/Otros/Certificado Introducción al Desarrollo Web - Segunda Parte.jpg"
+  },
+  {
+    "titulo": "Curso de Introducción al Desarrollo Web",
+    "categoria": "Instituto de Economía Internacional",
+    "institucion": "Universitat d’Alacant (UA)",
+    "fecha": "2016-10-01",
+    "horas": "40",
+    "url": "public/certificados/Otros/Certificado Introducción al Desarrollo Web.pdf",
+    "imagen": "public/thumbnails/Otros/Certificado Introducción al Desarrollo Web.jpg"
+  },
+  {
+    "titulo": "CÓMO ARMAR UNA RED HOGAREÑA SEGURA",
+    "categoria": "ESET",
+    "institucion": "ESET",
+    "fecha": "2017-01-19",
+    "horas": null,
+    "url": "public/certificados/Otros/Cómo armar una red hogareña segura - Eset Academy.pdf",
+    "imagen": "public/thumbnails/Otros/Cómo armar una red hogareña segura - Eset Academy.jpg"
+  },
+  {
+    "titulo": "Certificado otorgado",
+    "categoria": "Otros",
+    "institucion": "TCPDF",
+    "fecha": "2020-11-08",
+    "horas": null,
+    "url": "public/certificados/Otros/Experiencias Digitales Seguras.pdf",
+    "imagen": "public/thumbnails/Otros/Experiencias Digitales Seguras.jpg"
+  },
+  {
+    "titulo": "Solo Learn HTML",
+    "categoria": "Otros",
+    "institucion": "Solo Learn",
+    "fecha": "2023-10-01",
+    "horas": "N/A",
+    "url": "public/certificados/Otros/Solo Learn HTML.pdf",
+    "imagen": "public/thumbnails/Otros/Solo Learn HTML.jpg"
+  },
+  {
+    "titulo": "",
+    "categoria": "",
+    "institucion": "",
+    "fecha": "",
+    "horas": "",
+    "url": "public/certificados/Platzi/diploma-basica-appsco.pdf",
+    "imagen": "public/thumbnails/Platzi/diploma-basica-appsco.jpg"
+  },
+  {
+    "titulo": "",
+    "categoria": "",
+    "institucion": "",
+    "fecha": "",
+    "horas": "",
+    "url": "public/certificados/Platzi/diploma-curso-de-marca-personal.pdf",
+    "imagen": "public/thumbnails/Platzi/diploma-curso-de-marca-personal.jpg"
+  },
+  {
+    "titulo": "",
+    "categoria": "",
+    "institucion": "",
+    "fecha": "",
+    "horas": "",
+    "url": "public/certificados/Platzi/diploma-fundamentos-appsco.pdf",
+    "imagen": "public/thumbnails/Platzi/diploma-fundamentos-appsco.jpg"
+  },
+  {
+    "titulo": "",
+    "categoria": "",
+    "institucion": "",
+    "fecha": "",
+    "horas": "",
+    "url": "public/certificados/Platzi/diploma-git-appsco.pdf",
+    "imagen": "public/thumbnails/Platzi/diploma-git-appsco.jpg"
+  },
+  {
+    "titulo": "INTRODUCCIÓN A LA PROGRAMACION: ALGORITMOS",
+    "categoria": "SENA",
+    "institucion": "SENA",
+    "fecha": "2014-09-03",
+    "horas": "80",
+    "url": "public/certificados/SENA/Certificado Algoritmos.pdf",
+    "imagen": "public/thumbnails/SENA/Certificado Algoritmos.jpg"
+  },
+  {
+    "titulo": "DESARROLLO DE LA INTELIGENCIA EMOCIONAL EN LO PERSONAL Y LABORAL",
+    "categoria": "SENA",
+    "institucion": "SENA",
+    "fecha": "2016-12-22",
+    "horas": "40",
+    "url": "public/certificados/SENA/CERTIFICADO DESARROLLO DE LA INTELIGENCIA EMOCIONAL EN LO PERSONAL Y LABORAL.pdf",
+    "imagen": "public/thumbnails/SENA/CERTIFICADO DESARROLLO DE LA INTELIGENCIA EMOCIONAL EN LO PERSONAL Y LABORAL.jpg"
+  },
+  {
+    "titulo": "DISEÑAR PÁGINAS WEB CON HTML Y JAVASCRIP",
+    "categoria": "SENA",
+    "institucion": "SENA",
+    "fecha": "2014-07-08",
+    "horas": "40",
+    "url": "public/certificados/SENA/Certificado Diseño Pag Web Js.pdf",
+    "imagen": "public/thumbnails/SENA/Certificado Diseño Pag Web Js.jpg"
+  },
+  {
+    "titulo": "INSTALACIONES ELECTRICAS RESIDENCIALES",
+    "categoria": "SENA",
+    "institucion": "SENA",
+    "fecha": "2012-11-30",
+    "horas": "60",
+    "url": "public/certificados/SENA/Certificado Inst Elec. Residenciales.pdf",
+    "imagen": "public/thumbnails/SENA/Certificado Inst Elec. Residenciales.jpg"
+  }
+]
